@@ -1,3 +1,39 @@
+# Projeto de Redução de Desigualdades
+
+## Descrição
+
+Neste projeto, estamos desenvolvendo uma solução de software que contribui para o Objetivo de Desenvolvimento Sustentável (ODS) número 10: Redução das desigualdades. A aplicação, que utiliza técnicas avançadas de processamento de imagens como morfologia matemática, limiarização global, Sobel e Canny para remover o fundo de imagens e substituí-lo por outro fundo selecionado pelo usuário, tem como objetivo reduzir as desigualdades no acesso a ferramentas de edição de imagens avançadas, proporcionando uma solução gratuita e de alta qualidade para um número maior de indivíduos.
+
+## Problema a ser Resolvido
+
+O problema que nossa solução visa resolver é a barreira de acesso que muitas pessoas enfrentam ao tentar utilizar ferramentas de edição de imagens avançadas devido a custos elevados ou falta de recursos. Nosso objetivo é democratizar o acesso a essas ferramentas, oferecendo uma solução gratuita e eficiente que possa ser utilizada por qualquer pessoa, independentemente de sua condição socioeconômica.
+
+## Tipo de Solução
+
+A aplicação será implementada como um novo site do zero, abrangendo tanto o front-end, responsável pela interface com o usuário, quanto o back-end, que realizará o processamento das imagens e a lógica de negócios. Isso garantirá que a solução seja acessível e inclusiva para todos os usuários, contribuindo para a redução das desigualdades no acesso a recursos tecnológicos avançados.
+
+## Requisitos Funcionais
+
+- Capacidade de upload de imagens
+- Aplicação das técnicas de morfologia matemática, limiarização global, Sobel e Canny para remover o fundo da imagem
+- Seleção de fundo substituto
+- Visualização do resultado final
+
+## Requisitos Não Funcionais
+
+- Eficiência do processamento de imagens
+- Usabilidade da interface
+- Suporte a diferentes formatos de imagens
+
+## Diagrama de Caso de Uso
+
+- Ator: Usuário
+- Casos de Uso:
+  - Upload de imagem
+  - Remoção de fundo utilizando técnicas avançadas
+  - Seleção de fundo substituto
+  - Visualização do resultado final
+
 # Background Eraser
 
 ## Descrição
