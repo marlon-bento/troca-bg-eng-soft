@@ -1,0 +1,2 @@
+usar o arquivo que está nessa pasta com nome (c4 model.drawio) para abrir no site https://www.drawio.com/
+nesse arquivo tem feito o modelo c4
