@@ -1,4 +1,4 @@
-DEPLOY EM: https://estacao-meteorologica-backend.onrender.com/
+DEPLOY EM: https://bentricode-tirar-fundo-da-imagem.onrender.com/
 # Projeto de Redução de Desigualdades
 
 ## Descrição
